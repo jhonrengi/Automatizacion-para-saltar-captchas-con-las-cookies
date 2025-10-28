@@ -1,0 +1,19 @@
+[17288:36508:0123/094940.633:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[37436:4088:0123/094940.864:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[35120:35416:0123/094940.895:INFO:cpu_info.cc(53)] Available number of cores: 12
+[15644:20964:0123/094940.933:INFO:cpu_info.cc(53)] Available number of cores: 12
+[30584:13668:0123/094941.293:INFO:cpu_info.cc(53)] Available number of cores: 12
+[37524:36332:0123/094942.263:WARNING:spdy_session.cc(2981)] Received HEADERS for invalid stream 1
+[35696:32016:0123/094943.130:INFO:cpu_info.cc(53)] Available number of cores: 12
+[37524:36332:0123/094951.892:WARNING:spdy_session.cc(2981)] Received HEADERS for invalid stream 9
+[17288:36508:0123/094951.965:INFO:CONSOLE(18)] "BSSO Telemetry: {"result":"Error","error":"NoExtension","type":"ChromeSsoTelemetry","data":{},"traces":["BrowserSSO Initialized","Creating ChromeBrowserCore provider","Sending message for method CreateProviderAsync","Received message for method CreateProviderAsync","Error: ChromeBrowserCore error NoExtension: Extension is not installed."]}", source: https://aadcdn.msauth.net/shared/1.0/content/js/BssoInterrupt_Core_eaF-Fe71oZcWvr096r6xEw2.js (18)
+[37264:23512:0123/094951.972:INFO:cpu_info.cc(53)] Available number of cores: 12
+[37524:36332:0123/094952.400:WARNING:spdy_session.cc(2981)] Received HEADERS for invalid stream 3
+[34680:11548:0123/094952.544:INFO:cpu_info.cc(53)] Available number of cores: 12
+[37524:36332:0123/094953.132:WARNING:spdy_session.cc(2981)] Received HEADERS for invalid stream 7
+[21560:29776:0123/094953.281:INFO:cpu_info.cc(53)] Available number of cores: 12
+[37524:36332:0123/094957.846:WARNING:spdy_session.cc(2981)] Received HEADERS for invalid stream 3
+[37524:36332:0123/095000.350:WARNING:spdy_session.cc(2981)] Received HEADERS for invalid stream 19
+[37524:36332:0123/095006.926:WARNING:spdy_session.cc(2981)] Received HEADERS for invalid stream 29
+[37524:36332:0123/095010.815:WARNING:spdy_session.cc(2981)] Received HEADERS for invalid stream 35
+[37524:36332:0123/095027.333:WARNING:spdy_session.cc(2981)] Received HEADERS for invalid stream 51

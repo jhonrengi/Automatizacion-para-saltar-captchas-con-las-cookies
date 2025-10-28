@@ -1,0 +1,9 @@
+
+e
+java:S1192:"JDefine a constant instead of duplicating this literal "Data.xlsx" 4 times.(§±ýöúÿÿÿÿ
+a
+java:S1192:"FDefine a constant instead of duplicating this literal "Hoja1" 3 times.(§±ýöúÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹§³Š
+Q	java:S125D"<This block of commented-out lines of code should be removed.(ñ©úë
+Q	java:S125H"<This block of commented-out lines of code should be removed.(ñ©úë
+V	java:S125o"<This block of commented-out lines of code should be removed.(àôªŒûÿÿÿÿ
